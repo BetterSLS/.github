@@ -8,4 +8,8 @@ The website is at oftentimes slow, buggy and oftentimes unreliable to the point 
 
 What are you going to change
 ------------------
-We are switching to modern, reliable, lightweight, and fast frameworks like Vue. We are also making a cleaner, more modern UI with a light,dark, and oled dark theme.
+* [ ] Adding Dark Mode
+* [ ] Adding Page For Feature Requests and Bug Reports
+* [ ] Using Vue to Make the website faster
+* [ ] Using PostgreSQL and MongoDB for faster response
+* [ ] Making a Usable Mobile UI
