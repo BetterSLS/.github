@@ -11,5 +11,7 @@ What are you going to change
 * [ ] Adding Dark Mode
 * [ ] Adding Page For Feature Requests and Bug Reports
 * [ ] Using Vue to Make the website faster
-* [ ] Using PostgreSQL and MongoDB for faster response
+* [ ] Using PostgreSQL and MongoDB for faster responses
 * [ ] Making a Usable Mobile UI
+* [ ] Better Security Options
+* [ ] Mobile app(not a priority but something on the roadmap)
